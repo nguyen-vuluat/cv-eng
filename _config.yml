@@ -1,2 +1,4 @@
 - name: Awesome CV Builder
   uses: olivierodo/Awesome-CV-action@0.0.1
+
+theme: jekyll-theme-leap-day
