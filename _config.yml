@@ -1,3 +1,2 @@
-theme: jekyll-theme-cayman
-title: 💻✒️📄🌟
-description: Nguyen Vu Luat
+- name: Awesome CV Builder
+  uses: olivierodo/Awesome-CV-action@0.0.1
